@@ -28,12 +28,27 @@ Cipher is a free and open souce encoding and decoding app specially designed for
 </p>
 <h1>Installation</h1>
 <h2>Requiered Dependencies</h2><br>
-1. granite<br>
-2. gobject-2.0<br>
-3. gtk+-3.0<br>
-4. glib-2.0<br>
-5. gee-0.8<br>
-6. libgda-5.0<br>
+
+```
+granite
+```
+
+```
+gobject-2.0
+
+```
+
+```
+gtk+-3.0
+```
+
+```
+glib-2.0
+```
+
+```
+gee-0.8
+```
 <h2>Installation</h2>
 To install this app in firstly clone this repository and type the follwing commands in your terminal 
 
@@ -42,12 +57,13 @@ sudo apt install elementary-sdk
 sudo apt install meson
 ```
 
-Now cd to Cipher
 ```
+cd cipher
 mkdir build
 ```
-Now cd to build 
+ 
 ```
+cd build
 meson ..
 ninja
 sudo ninja install
