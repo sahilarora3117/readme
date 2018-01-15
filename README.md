@@ -35,7 +35,6 @@ granite
 
 ```
 gobject-2.0
-
 ```
 
 ```
@@ -50,7 +49,7 @@ glib-2.0
 gee-0.8
 ```
 <h2>Installation</h2>
-To install this app in firstly clone this repository and type the follwing commands in your terminal 
+To install this app in firstly clone this repository and type the follwing commands in your terminal <br>
 
 ```
 sudo apt install elementary-sdk
