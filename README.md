@@ -14,12 +14,13 @@
 <h1>Features</h1>
 <br>
 Cipher is a free and open souce encoding and decoding app specially designed for elementary os. The Cipher app can currently encode and decode between six different ciphers namely:<br><br>
-1. Caesar Shift Cipher<br>
-2. Atbash Cipher<br>
-3. Polybius Square Cipher<br>
-4. Rot13 Cipher<br>
-5. Base64 Encoding<br>
-6. ASCII Encoding<br>
+
+- Caesar Shift Cipher
+- Atbash Cipher
+- Polybius Square Cipher
+- Rot13 Cipher
+- Base64 Encoding
+- ASCII Encoding
 
 <br>
 </p>
