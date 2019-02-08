@@ -1,8 +1,6 @@
 <div>
   <h1 align="center">CIPHER</h1>
-  <h2 align="center">Encode and decode text</h2>
-  <p align="center">A simple application for encoding and decoding text</p>
-  <p align="center">Designed for <a href="https://elementary.io">elementary OS</p>
+   <p align="center">Designed for <a href="https://elementary.io">elementary OS</p>
 </div>
 <p align="center">
   <a href="https://appcenter.elementary.io/com.github.arshubham.cipher.desktop">
